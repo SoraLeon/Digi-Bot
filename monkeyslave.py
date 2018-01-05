@@ -309,7 +309,7 @@ def about(ctx):
         return
 
     embed = discord.Embed(description="*SCRIPTS SCRIPTS SCRIPTS*. Eu vou cobrar todo mundo!")
-    embed.set_author(name="Monkey Slave", url="https://github.com/rodrigokiller/MonkeyBot",
+    embed.set_author(name="Monkey Slave", url="https://github.com/BBRUNH/Digi-Bot",
                      icon_url="https://assets-cdn.github.com/favicon.ico")
     embed.add_field(name="Autor", value="@Killer#9093")
     embed.add_field(name="Plataforma", value="Python " + EMOJI[":snake:"])
