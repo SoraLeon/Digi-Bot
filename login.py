@@ -1,8 +1,8 @@
 #Token always has priority, if token is defined it will always attempt to login using a token
 #Comment the token line or set it empty to use email login
 # TEST
-#token = 'MjkwMjI2MTc4NTcxMTA4MzU1.DERFfw.G0CN_X5HXGdFEtPyquyRzdEDa0M'
+#token = 'Faf6Pmykz03_CV8QbNuQ-ej0T5Quc0k87_DXpLk2wSi79kLGMOzKgkl-TCYj0eJUKlCE'
 # BOT
-token = 'Mjg5ODcyMjMxNTU4MDIxMTIy.DERFjw.Bew0JwJ3hDicJkOg4_hCpwLwEI4'
+token = 'Faf6Pmykz03_CV8QbNuQ-ej0T5Quc0k87_DXpLk2wSi79kLGMOzKgkl-TCYj0eJUKlCE'
 email = ''
 password = ''
